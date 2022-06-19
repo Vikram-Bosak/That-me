@@ -6,7 +6,7 @@
 <a href=" https://www.linkedin.com/in/vikram-bosak/">
   <img align="left" alt="vikram's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href=" https://github.com/Vikram-Bosak">
+<a href="  https://www.instagram.com/vikram_bosak/">
   <img align="left" alt="vikram's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://www.youtube.com/channel/UC06ZjUN4OsA6pC-Hg2okckw">
