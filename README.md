@@ -13,7 +13,7 @@
   <img align="left" alt="vikram's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>.
 <a href="https://linktr.ee/themasaischool">
-  <img align="left" alt="vikram's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/site.svg" />
+  <img align="left" alt="vikram's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/search.svg" />
 </a>
 
 <br />
